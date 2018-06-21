@@ -1,0 +1,6 @@
+C:\Users\vikaskumar\Downloads\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.exe.config
+C:\Users\vikaskumar\Downloads\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.exe
+C:\Users\vikaskumar\Downloads\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.pdb
+C:\Users\vikaskumar\Downloads\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.csprojResolveAssemblyReference.cache
+C:\Users\vikaskumar\Downloads\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.exe
+C:\Users\vikaskumar\Downloads\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.pdb
